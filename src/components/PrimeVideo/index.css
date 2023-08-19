@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.carousel {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+}
